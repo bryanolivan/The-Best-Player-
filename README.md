@@ -6,7 +6,7 @@ Messi has over 600 carrer goals. Lionel Messi is the all time goal scorer for ba
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Image of messi]https://s.hs-data.com/bilder/spieler/gross/26622.jpg
 
 ```markdown
 Syntax highlighted code blo
@@ -22,7 +22,6 @@ Right now Messi is not really happy at Barcelona because he wanted to leave afte
 
 1. Numbered
 2. List
-![Github Logo}[https://s.hs-data.com/bilder/spieler/gross/26622.jpg]
 **Bold** and _Italic_ and `Code` text
 ![Lionel MEssi](https://www.google.com/search?q=lionel+messi&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiRyfW7953sAhWkITQIHUP_BI4Q_AUoAnoECCYQBA&biw=1920&bih=937&safe=active&ssui=on#imgrc=HX4G9wlO7oz9SM])
  
