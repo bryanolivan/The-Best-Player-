@@ -3,7 +3,7 @@ Welcome to My website where I will be giving information on who I think is the b
 Career Stats.
 Messi has over 600 carrer goals and scored his first goal for barcelona in 2005 when he was just 17 years old. Lionel Messi is the all time goal scorer for barcelona which makes him an icon in the club.
 
-ionel Messi is the all time goal scorer for barcelona which makes him an icon in the club.
+Lionel Messi is the all time goal scorer for barcelona which makes him an icon in the club.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
