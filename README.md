@@ -21,14 +21,13 @@ Messi has 6 Balon D'or which is the record. Messi has alo got 6 time Champion Le
 
 1. Numbered
 2. List
-
+![https://s.hs-data.com/bilder/spieler/gross/26622.jpg]
 **Bold** and _Italic_ and `Code` text
 ![Lionel MEssi](https://www.google.com/search?q=lionel+messi&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiRyfW7953sAhWkITQIHUP_BI4Q_AUoAnoECCYQBA&biw=1920&bih=937&safe=active&ssui=on#imgrc=HX4G9wlO7oz9SM])
  
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-![https://s.hs-data.com/bilder/spieler/gross/26622.jpg]
-### Jekyll Themes
+
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bryanolivan/The-Best-Player-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
