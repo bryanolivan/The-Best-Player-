@@ -1,5 +1,5 @@
 Welcome to My website where I will be giving information on who I think is the best soccer player to ever play the game which is Lionel Messi. Soccer is my favorite sport and it is very complex. Messi makes it seeme easy and the way that he dribbles is entertaining to watch. Career Stats.
-Messi has over 600 carrer goals and scored his first goal for barcelona in 2005 when he was just 17 years old. Lionel Messi is the all time goal scorer for barcelona which makes him an icon in the club.
+Messi has over 600 carrer goals. Lionel Messi is the all time goal scorer for barcelona which makes him an icon in the club.
 
 
 
