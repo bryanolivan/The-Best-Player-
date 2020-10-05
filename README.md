@@ -23,8 +23,7 @@ Syntax highlighted code blo
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+ ![https://www.google.com/search?q=lionel+messi&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiRyfW7953sAhWkITQIHUP_BI4Q_AUoAnoECCYQBA&biw=1920&bih=937&safe=active&ssui=on#imgrc=HX4G9wlO7oz9SM]
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
