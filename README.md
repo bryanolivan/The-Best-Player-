@@ -14,7 +14,7 @@ Syntax highlighted code blo
 # Header 1 Trophies
 Messi has 6 Balon D'or which is the record. Messi has alo got 6 time Champion League top scorer. He also has 6 golden boots and 6 time top scorer in La liga. 
 ## Header 2 CurrenT Status 
-Right now Messi is not really happy at Barcelona because he wanted to leave after their 8-2 loss against Bayern in the champion. Messi feels that the club is all over the place and he does not want to spend the last years at his club losing everything. Barcelona did not let him leave. They said he needed to wait until the end of the year if he wanted to leave. 
+Right now Messi is not really happy at Barcelona because he wanted to leave after their 8-2 loss against Bayern in the champion. Messi feels that the club is all over the place and he does not want to spend the last years at his club losing everything. Barcelona did not let him leave. They said he needed to wait until the end of the year if he wanted to leave. He is going to play with the club until the end of the year and he will decide if he wants to leave or stay. 
 ### Header 3
 
 - Bulleted
