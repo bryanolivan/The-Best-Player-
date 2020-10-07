@@ -14,16 +14,15 @@ Syntax highlighted code blo
 Messi has 6 Balon D'or which is the record. Messi has alo got 6 time Champion League top scorer. He also has 6 golden boots and 6 time top scorer in La liga. 
 ## Header 2 CurrenT Status 
 Right now Messi is not really happy at Barcelona because he wanted to leave after their 8-2 loss against Bayern in the champion. Messi feels that the club is all over the place and he does not want to spend the last years at his club losing everything. Barcelona did not let him leave. They said he needed to wait until the end of the year if he wanted to leave. He is going to play with the club until the end of the year and he will decide if he wants to leave or stay. 
-### Header 3
+### Messi
+![TransfermarktLionel Messi - Player profile 20/21 | Transfermarkt](https://tmssl.akamaized.net/images/foto/normal/lionel-messi-ballon-dor-2019-1592819026-41968.jpg)
 
 - Bulleted
 - List
 
 1. Numbered
 2. List
-**Bold** and _Italic_ and `Code` text
-![Lionel MEssi]https://www.gannett-cdn.com/-mm-/c9b831eb506a8b1e6661c02e13b01c4bda41e4ef/c=0-191-3663-2251/local/-/media/2020/02/27/USATODAY/usatsports/140c6563886442bd9c0cfbc2343dbfa7.jpg?width=660&height=372&fit=crop&format=pjpg&auto=webp
- 
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
