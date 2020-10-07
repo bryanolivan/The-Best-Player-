@@ -5,7 +5,7 @@ Messi has over 600 carrer goals. Lionel Messi is the all time goal scorer for ba
 
 
 ### Messi Picture
-![The New York TimesA Genius in Full Bloom, Lionel Messi Lifts Barcelona - The New York Times]https://static01.nyt.com/images/2019/04/16/sports/16onsoccerweb-2/merlin_153612873_5bb119b9-8972-4087-b4fd-371cab8c5ba2-superJumbo.jpg
+![The New York TimesA Genius in Full Bloom, Lionel Messi Lifts Barcelona - The New York Times](https://tmssl.akamaized.net/images/foto/normal/lionel-messi-ballon-dor-2019-1592819026-41968.jpg)
 
 ```markdown
 Syntax highlighted code blo
